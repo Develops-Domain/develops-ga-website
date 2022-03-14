@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    font-size: 16px;
+    font-family: 'Prompt', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #0174f8;
+}
+
+.title {
+    font-size: 3rem;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 3rem;
+}
+
+.subtitle {
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 3rem;
+}
+
+.subtitle2 {
+    font-size: 1.5rem;
+    margin-left: 11.5rem;
+    font-weight: 700;
+    margin-top: 3rem;
+}
+
+.domain-example {
+    font-size: 1.5rem;
+    margin-left: 11.5rem;
+    font-weight: 700;
+    margin-top: 0.5rem;
+    color: rgb(49, 49, 49);
+    display: inline-block;
+}
+
+.domain {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-top: 0.5rem;
+    color: rgb(49, 49, 49);
+    display: inline-block;
+}
